@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+package user;
+
+// นิยามบริการ (Service) ชื่อ UserService
+service UserService {
+  // ฟังก์ชัน GetUser รับ UserRequest และส่งคืน UserReply
+  rpc GetUser (UserRequest) returns (UserReply);
+}
+
+// โครงสร้างข้อมูลที่ส่งไปขอ (Request)
+message UserRequest {
+  int32 user_id = 1; // ส่ง ID ไป
+}
+
+// โครงสร้างข้อมูลที่ตอบกลับ (Reply)
+message UserReply {
+  string name = 1;        // ชื่อสายพันธุ์
+  string origin = 2;      // ถิ่นกำเนิด
+  string temperament = 3; // นิสัย
+  int32 id = 4;           // ไอดี
+}

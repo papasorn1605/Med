@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Siamese",
+        "origin": "Thailand",
+        "temperament": "Social, Intelligent, Playful"
+    },
+    {
+        "id": 2,
+        "name": "Persian",
+        "origin": "Iran",
+        "temperament": "Quiet, Sweet, Gentle"
+    },
+    {
+        "id": 3,
+        "name": "Maine Coon",
+        "origin": "United States",
+        "temperament": "Gentle, Intelligent, Independent"
+    },
+    {
+        "id": 4,
+        "name": "Scottish Fold",
+        "origin": "United Kingdom",
+        "temperament": "Sweet, Calm, Loyal"
+    },
+    {
+        "id": 5,
+        "name": "British Shorthair",
+        "origin": "United Kingdom",
+        "temperament": "Affectionate, Easy-going, Loyal"
+    },
+    {
+        "id": 6,
+        "name": "Sphynx",
+        "origin": "Canada",
+        "temperament": "Energetic, Affectionate, Curious"
+    },
+    {
+        "id": 7,
+        "name": "Bengal",
+        "origin": "United States",
+        "temperament": "Energetic, Playful, Intelligent"
+    },
+    {
+        "id": 8,
+        "name": "Ragdoll",
+        "origin": "United States",
+        "temperament": "Gentle, Affectionate, Calm"
+    },
+    {
+        "id": 9,
+        "name": "Russian Blue",
+        "origin": "Russia",
+        "temperament": "Quiet, Gentle, Reserved"
+    },
+    {
+        "id": 10,
+        "name": "Munchkin",
+        "origin": "United States",
+        "temperament": "Playful, Outgoing, Intelligent"
+    }
+]
